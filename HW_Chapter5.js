@@ -56,9 +56,7 @@ console.log(colors['ru pum pu ru rum'].blue)
         Salary += salaries[key]
     }
     
-    // Вычисляем среднюю зарплату
     let averageSalary = Salary / 4
     
-    // Выводим результат в консоль
     console.log("Average salary is", averageSalary);
     
